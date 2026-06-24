@@ -32,3 +32,4 @@ C:\cursos\lanchipa\lab14\lab14-.net\lab10erick\lab10erick.Infrastructure\obj\Deb
 C:\cursos\lanchipa\lab14\lab14-.net\lab10erick\lab10erick.Infrastructure\obj\Debug\net9.0\lab10erick.Infrastructure.pdb
 C:\cursos\lanchipa\lab14\lab14-.net\lab10erick\lab10erick.Infrastructure\obj\Debug\net9.0\lab10erick.Infrastructure.genruntimeconfig.cache
 C:\cursos\lanchipa\lab14\lab14-.net\lab10erick\lab10erick.Infrastructure\obj\Debug\net9.0\ref\lab10erick.Infrastructure.dll
+C:\cursos\lanchipa\lab14\lab14-.net\lab10erick\lab10erick.Infrastructure\obj\Debug\net9.0\lab10erick.Infrastructure.sourcelink.json

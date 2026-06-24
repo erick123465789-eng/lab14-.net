@@ -294,3 +294,4 @@ C:\cursos\lanchipa\lab14\lab14-.net\lab10erick\lab10erick\obj\Debug\net9.0\refin
 C:\cursos\lanchipa\lab14\lab14-.net\lab10erick\lab10erick\obj\Debug\net9.0\lab10erick.pdb
 C:\cursos\lanchipa\lab14\lab14-.net\lab10erick\lab10erick\obj\Debug\net9.0\lab10erick.genruntimeconfig.cache
 C:\cursos\lanchipa\lab14\lab14-.net\lab10erick\lab10erick\obj\Debug\net9.0\ref\lab10erick.dll
+C:\cursos\lanchipa\lab14\lab14-.net\lab10erick\lab10erick\obj\Debug\net9.0\lab10erick.sourcelink.json

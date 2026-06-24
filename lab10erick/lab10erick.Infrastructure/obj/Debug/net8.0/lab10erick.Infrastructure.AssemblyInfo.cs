@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("laberick10.Domain")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("lab10erick.Infrastructure")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1de63b50a2ce45a320b593e58c0b33a006dabf94")]
-[assembly: System.Reflection.AssemblyProductAttribute("laberick10.Domain")]
-[assembly: System.Reflection.AssemblyTitleAttribute("laberick10.Domain")]
+[assembly: System.Reflection.AssemblyProductAttribute("lab10erick.Infrastructure")]
+[assembly: System.Reflection.AssemblyTitleAttribute("lab10erick.Infrastructure")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Generado por la clase WriteCodeFragment de MSBuild.
